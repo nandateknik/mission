@@ -11,16 +11,16 @@
 Aplikasi rencana kerja yang saya buat untuk kebutuhan di PT. Grahamakmur Ciptapratama Banyuwangi. Adapun aplikasi ini saya beri nama mission. saya ciptakan menggunakan bahasa php dengan framework codeigniter 3. adapun fitur yang disediakan antara lain :
 
 ### Fitur Aplikasi :
-- Dashboard untuk pengecekan dan pemantauan permintaan pekerjaan maupun rencana kerja
-- Menu input permintaan kerja oleh divisi lain
-- Menu input daftar rencana kerja oleh divisi teknik
-- Menu user untuk pengaturan dan pengaktifan akun maupun edit role user
+- **Dashboard** untuk pengecekan dan pemantauan permintaan pekerjaan maupun rencana kerja
+- **input permintaan kerja** oleh divisi lain
+- **input daftar rencana kerja** oleh divisi teknik
+- **user** untuk pengaturan dan pengaktifan akun maupun edit role user
 
 ### Role User :
-- Super Admin berfungsi sebagai pengontrol seluruh aplikasi
-- Admin Teknik memiliki fungsi sebagai input rencana kerja
-- Admin Divisi Lain memiliki fungsi sebagai input permintaan perbaikan
-- User Teknik sebagai pelaksana pekerjaan
+- **Super Admin** berfungsi sebagai pengontrol seluruh aplikasi
+- **Admin Teknik** memiliki fungsi sebagai input rencana kerja
+- **Admin Divisi Lain** memiliki fungsi sebagai input permintaan perbaikan
+- **User Teknik** sebagai pelaksana pekerjaan
 
 ## Server Requirements
 
@@ -30,9 +30,4 @@ PHP version 5.6 or newer is recommended.
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
-
-## Installation
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
 
